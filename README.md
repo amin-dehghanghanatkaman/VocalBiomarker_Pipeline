@@ -1,9 +1,9 @@
 
 # Vocal Biomarker Feature Extraction Pipeline
 ============================================
-## A demonstration of acoustic feature extraction for health applications, specifically designed to align with the NTNU PhD position on vocal biomarkers.
+## A demonstration of acoustic feature extraction for health applications.
 
-## This script extracts clinically-relevant acoustic features including:
+## This Notebook extracts clinically-relevant acoustic features including:
 - Pitch (F0) and pitch stability measures
 - Jitter (frequency perturbation)
 - Shimmer (amplitude perturbation)  
