@@ -9,6 +9,8 @@
 - Shimmer (amplitude perturbation)  
 - Harmonics-to-Noise Ratio (HNR)
 - MFCCs for broader acoustic characterization
+- Zero Crossing Rate (ZCR)
+- Root Mean Square Energy (RMS Energy)
 
 ## References:
 - Teixeira et al. (2013) - Jitter/Shimmer in Parkinson's Disease
