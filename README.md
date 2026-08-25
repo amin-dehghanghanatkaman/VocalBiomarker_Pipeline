@@ -6,11 +6,15 @@
 ## This Notebook extracts clinically-relevant acoustic features including:
 - Pitch (F0) and pitch stability measures
 - Jitter (frequency perturbation)
-- Shimmer (amplitude perturbation)  
+- Shimmer (amplitude perturbation) 
 - Harmonics-to-Noise Ratio (HNR)
 - MFCCs for broader acoustic characterization
 - Zero Crossing Rate (ZCR)
 - Root Mean Square Energy (RMS Energy)
+- Spectral Centroid
+- Spectral Rolloff
+- Spectral Bandwidth
+
 
 ## References:
 - Teixeira et al. (2013) - Jitter/Shimmer in Parkinson's Disease
