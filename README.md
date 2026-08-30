@@ -20,3 +20,6 @@
 - Teixeira et al. (2013) - Jitter/Shimmer in Parkinson's Disease
 - Tsanas et al. (2012) - Voice features in PD progression prediction
 
+## Important:
+
+- If you are looking for a more scientific explanation of the voice biomarkers, navigate to the vocal_scratch directory.
